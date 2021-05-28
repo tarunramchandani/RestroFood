@@ -1,0 +1,35 @@
+.col-lg-4 h2{
+    text-align: center;
+}
+.col-lg-4 img{
+    display:block;
+    margin:0 auto;
+}
+footer{
+   text-align: center;   
+}
+nav{
+    background-color: black;
+}
+span{
+    color:white;
+}
+.br{
+   text-align: center;     
+}
+.lk{
+   color:white;
+}
+.row featurette{
+ display: flex;
+ justify-content:center ;
+ align-items:center;
+}
+.row{
+ display: flex;
+ justify-content:center ;
+ align-items:center;
+}
+#html{
+  scroll-behavior: smooth;
+}
